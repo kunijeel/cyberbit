@@ -12,6 +12,7 @@
 
 ## 개별 코스
  - Basic Malware Analysis
+ - Campaign of the Month 
 
 ## 문제가 잘 풀리지 않거나 궁금한 점은 Issues 사용
 
